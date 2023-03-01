@@ -1,4 +1,4 @@
-Following a Laracaster tutorial to learn testing in Laravel.  
+Following a laracasts.com tutorial to learn basic testing with Laravel.  
 
 video: https://laracasts.com/series/laravel-from-scratch-2018/episodes/37
 
