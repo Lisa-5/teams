@@ -1,3 +1,14 @@
+Following a Laracaster tutorial to learn testing in Laravel.  
+
+video: https://laracasts.com/series/laravel-from-scratch-2018/episodes/37
+
+
+
+---------------------------------------------------
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
